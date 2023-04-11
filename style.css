@@ -4,7 +4,7 @@
     margin:0 auto;
 }
 header{
-    background-image: url(bg-image.png);
+    background-image: url('bg-image.png');
     width: 1300px;
     background-repeat: no-repeat;
     background-size: cover;
